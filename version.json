@@ -1,5 +1,9 @@
 {
-  isUpdate: false,
-  versionName: null,
-  versionCode: 1
+    "code": 0,
+    "message": "操作成功",
+    "data": {
+        "isUpdate": false,
+        "versionName": null,
+        "versionCode": 1
+    }
 }
