@@ -3,7 +3,7 @@
     "message": "操作成功",
     "data": {
         "isUpdate": false,
-        "versionName": null,
+        "versionName": "1.0",
         "versionCode": 2
     }
 }
