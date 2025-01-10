@@ -2,8 +2,8 @@
     "code": 0,
     "message": "操作成功",
     "data": {
-        "isUpdate": true,
-        "versionName": null,
+        "isUpdate": false,
+        "versionName": "null",
         "versionCode": 2
     }
 }
