@@ -1,4 +1,5 @@
 {
-isUpdate: false,
-versionName: null
+  isUpdate: false,
+  versionName: null,
+  versionCode: 1
 }
